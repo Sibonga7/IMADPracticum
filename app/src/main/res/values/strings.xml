@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMADPracticum</string>
+    <string name="string_add_to_playlist">Add to Playlist</string>
+    <string name="string_song_title">Song title</string>
+    <string name="string_artist_s_name">Artist\'s name</string>
+    <string name="string_rating_1_5">Rating(1-5)</string>
+    <string name="string_usercomments">Usercomments</string>
+    <string name="string_next_screen">Next Screen</string>
+    <string name="string_exit">Exit</string>
+</resources>

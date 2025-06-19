@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00D4A3"
+    tools:context=".MainActivity2">
+
+    <Button
+        android:id="@+id/btnlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="List of Songs"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="33dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnAverage"
+        android:layout_width="228dp"
+        android:layout_height="73dp"
+        android:text="Average rating of the songs"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="149dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnReturn"
+        android:layout_width="151dp"
+        android:layout_height="71dp"
+        android:text="Return to Main Screen"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="330dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
