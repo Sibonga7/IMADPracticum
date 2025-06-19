@@ -1,4 +1,4 @@
-Github link:
+Github link: git@github.com:Sibonga7/IMADPracticum.git
 
 ![image](https://github.com/user-attachments/assets/b3679137-2f75-4e70-b807-3aa9589317ea) (Source Code)
 
